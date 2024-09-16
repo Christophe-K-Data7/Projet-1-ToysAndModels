@@ -15,10 +15,12 @@ Il est recommandé de créer des KPIs supplémentaires.
 Cette partie est très importante afin de développer vos compétences/créativité en tant qu'analyste de données.
 
 Ventes : Le nombre de produits vendus par catégorie et par mois, avec comparaison et taux de variation par rapport au même mois de l'année précédente.
-Finances :
-Le chiffre d'affaires des commandes des deux derniers mois par pays.
+
+Finances :Le chiffre d'affaires des commandes des deux derniers mois par pays.
 Les commandes qui n'ont pas encore été payées.
+
 Logistique : Le stock des 5 produits les plus commandés.
+
 Ressources Humaines : Chaque mois, les 2 vendeurs ayant le plus haut chiffre d'affaires.
 
 Nota bene : parfois, les indicateurs d'affaires ne sont pas techniquement réalisables. Il vous incombe de l'expliquer et d'apporter vos propres idées pour répondre aux besoins de l'entreprise.
